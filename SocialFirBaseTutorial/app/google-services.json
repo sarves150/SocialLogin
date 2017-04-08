@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732987581991",
+    "firebase_url": "https://socialfirbasetutorial.firebaseio.com",
+    "project_id": "socialfirbasetutorial",
+    "storage_bucket": "socialfirbasetutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732987581991:android:ea007e29ab74a5cd",
+        "android_client_info": {
+          "package_name": "sarvesh.auth.com.socialfirbasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732987581991-7hj0ec0udrha3tp3tfk7hp4c8hgfsvn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarvesh.auth.com.socialfirbasetutorial",
+            "certificate_hash": "11b1ad70dc6f1ddfc89013447223cc36902aa5ac"
+          }
+        },
+        {
+          "client_id": "732987581991-qi6idk0937l7t05aar265naijquj197f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBkILeaW4KyWHEuB49JpqWP0TRBETzITo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732987581991-qi6idk0937l7t05aar265naijquj197f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SocialFirBaseTutorial</string>
+
+    <!-- crash app module -->
+    <string name="crash_button_label">Cause Crash</string>
+    <string name="catch_crash_checkbox_label">Catch Crash</string>
+
+    <!-- crash app module end -->
+
+
+    <!-- GCM Module -->
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <!-- end GCM Module -->
+
+    <!-- facebook details -->
+
+    <string name="facebook_app_id">1873727209576095</string>
+    <!-- end facebook details -->
+
+</resources>
